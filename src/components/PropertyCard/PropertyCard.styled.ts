@@ -11,6 +11,7 @@ export const CardContainer = styled.div`
     width: 100%;
     contain: content;
     margin-bottom: 2rem;
+    max-width: 800px;
 `;
 
 export const Content = styled.div`
