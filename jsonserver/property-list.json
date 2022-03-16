@@ -1,0 +1,181 @@
+{
+  "properties": [
+    {
+      "id": "60985865",
+      "title": "4 bed terraced house for sale",
+      "publishedOnLabel": "Listed on",
+      "publishedOn": "14th Mar 2022",
+      "image": {
+        "src": "https://lid.zoocdn.com/645/430/1c53e3d416def0b1f85a61844a42ef047ae398a2.jpg",
+        "caption": null,
+        "responsiveImgList": [
+          {
+            "width": 480,
+            "src": "https://lid.zoocdn.com/354/255/1c53e3d416def0b1f85a61844a42ef047ae398a2.jpg"
+          },
+          {
+            "width": 960,
+            "src": "https://lid.zoocdn.com/645/430/1c53e3d416def0b1f85a61844a42ef047ae398a2.jpg"
+          }
+        ]
+      },
+      "features": [
+        {
+          "content": 9,
+          "iconId": "bed"
+        },
+        {
+          "content": 5,
+          "iconId": "bath"
+        },
+        {
+          "content": 2,
+          "iconId": "chair"
+        }
+      ],
+      "transports": [
+        {
+          "title": "Goodmayes",
+          "poiType": "national_rail_station",
+          "distanceInMiles": 0.6,
+          "features": {
+            "zone": null,
+            "tubeLines": null
+          }
+        },
+        {
+          "title": "Chadwell Heath",
+          "poiType": "national_rail_station",
+          "distanceInMiles": 0.8,
+          "features": {
+            "zone": null,
+            "tubeLines": null
+          }
+        }
+      ],
+      "flag": "Just added",
+      "priceTitle": "",
+      "price": "£795,000",
+      "address": "Westfield Road, Ealing W13",
+      "status": "active"
+    },
+    {
+      "id": "60985866",
+      "title": "2 bed bungalow for sale",
+      "publishedOnLabel": "Listed on",
+      "publishedOn": "14th Mar 2022",
+      "image": {
+        "src": "https://lid.zoocdn.com/645/430/6b1f267148d9b7f1c6d80568a09d2068bfe203eb.jpg",
+        "caption": "External",
+        "responsiveImgList": [
+          {
+            "width": 480,
+            "src": "https://lid.zoocdn.com/354/255/6b1f267148d9b7f1c6d80568a09d2068bfe203eb.jpg"
+          },
+          {
+            "width": 960,
+            "src": "https://lid.zoocdn.com/645/430/6b1f267148d9b7f1c6d80568a09d2068bfe203eb.jpg"
+          }
+        ]
+      },
+      "features": [
+        {
+          "content": 9,
+          "iconId": "bed"
+        },
+        {
+          "content": 5,
+          "iconId": "bath"
+        },
+        {
+          "content": 2,
+          "iconId": "chair"
+        }
+      ],
+      "transports": [
+        {
+          "title": "Goodmayes",
+          "poiType": "national_rail_station",
+          "distanceInMiles": 0.6,
+          "features": {
+            "zone": null,
+            "tubeLines": null
+          }
+        },
+        {
+          "title": "Chadwell Heath",
+          "poiType": "national_rail_station",
+          "distanceInMiles": 0.8,
+          "features": {
+            "zone": null,
+            "tubeLines": null
+          }
+        }
+      ],
+      "flag": "Just added",
+      "priceTitle": "Offers over",
+      "price": "£425,000",
+      "address": "Redleaf Close, Upper Belvedere DA17",
+      "status": "active"
+    },
+    {
+      "id": "60985850",
+      "title": "2 bed flat for sale",
+      "publishedOnLabel": "Listed on",
+      "publishedOn": "14th Mar 2022",
+      "image": {
+        "src": "https://lid.zoocdn.com/645/430/deb440b2da4c6ec7223b5aa99b1fda93773082be.jpg",
+        "caption": null,
+        "responsiveImgList": [
+          {
+            "width": 480,
+            "src": "https://lid.zoocdn.com/354/255/deb440b2da4c6ec7223b5aa99b1fda93773082be.jpg"
+          },
+          {
+            "width": 960,
+            "src": "https://lid.zoocdn.com/645/430/deb440b2da4c6ec7223b5aa99b1fda93773082be.jpg"
+          }
+        ]
+      },
+      "features": [
+        {
+          "content": 9,
+          "iconId": "bed"
+        },
+        {
+          "content": 5,
+          "iconId": "bath"
+        },
+        {
+          "content": 2,
+          "iconId": "chair"
+        }
+      ],
+      "transports": [
+        {
+          "title": "Goodmayes",
+          "poiType": "national_rail_station",
+          "distanceInMiles": 0.6,
+          "features": {
+            "zone": null,
+            "tubeLines": null
+          }
+        },
+        {
+          "title": "Chadwell Heath",
+          "poiType": "national_rail_station",
+          "distanceInMiles": 0.8,
+          "features": {
+            "zone": null,
+            "tubeLines": null
+          }
+        }
+      ],
+      "flag": "Just added",
+      "priceTitle": "",
+      "price": "£440,000",
+      "address": "Maida Vale, London W9",
+      "status": "active"
+    }
+  ]
+}
